@@ -1,1 +1,3 @@
 Hello fileC!
+modifications1
+modifications2
