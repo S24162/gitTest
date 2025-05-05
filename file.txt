@@ -4,6 +4,5 @@ modified
 mod2
 mod21
 modified1
-modified2
-mod3 - corrections after stashing
-add after stash
+modified2 Some modifications for next stashing
+mod3
